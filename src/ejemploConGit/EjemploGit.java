@@ -4,7 +4,8 @@ public class EjemploGit {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Bienvenidos a Git");
+		//Modificando mensaje
+		System.out.println("Segundo commit en Git");
 	
 	}
 
